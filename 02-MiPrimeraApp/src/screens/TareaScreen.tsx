@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     },
     cajaAzul: {
         width: 100,
-        // height: 100,
+        height: 100,
         borderWidth: 10,
         borderColor: 'white',
         backgroundColor: '#28C4D9',
